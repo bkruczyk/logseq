@@ -1,0 +1,4 @@
+#+TITLE: Paradoxes of Software Architecture
+
+** Paradoxes we encounter within [[Software Architecture]]
+**
