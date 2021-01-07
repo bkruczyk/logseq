@@ -1,5 +1,5 @@
 #+TITLE: Paradoxes of Software Architecture
 
 ** Paradoxes we encounter within [[Software Architecture]]
-** [[Jan 9th, 2021]]
+** /link
 ** [[https://cdn.logseq.com/%2F276227ec-e71b-44a5-9289-5c8052e2970b9f8134ab-8842-43eb-a593-916c0b00a50f2021_01_08_image.png?Expires=4763663361&Signature=Dj7PXi2VZTQ4qkaZGFNZihb1l1~4E083189TCdgKH5JVGmH1bHlspst0qN6VJo~VwPoVZlKi5V0413Cy3lu91r5FY0zHuyBskfrmehKToGiy5I4R2vkIgOjnsQxoUPBXyWLR~ARv8vcgWuNT~aJRCk7m~iJF-vR4K3HHSxOGcooPGp8Rm96eIrd4ickrPnGmnavfHnFeK1wuQgT0OZ4SVt9mNAxdALqAoqocddqZ02j54M6ZtYllubtKbuTqSzAMA02fV9KwMl~F4aNUu0JBeWabGbapw5R0It~5oHouEW-CHDGuM0bdBXcazHwrQogQVEIcnasrBdz~zcKFnwnjPA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2021_01_08_image.png]]
